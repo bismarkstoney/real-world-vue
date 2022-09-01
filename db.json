@@ -1,53 +1,44 @@
 {"events":[
          {
-          id: 1111,
-          category: 'Animal Welfare',
-          description: 'Find your new feline friend at this event',
-          location: 'Meow Town',
-          date: 'Janauary 28,2022',
-          time: '12:00',
-          pestAllowed: true,
-          organizer: 'Kai daves'
+          "id": 1111,
+          "category": 'Animal Welfare',
+          "description": 'Find your new feline friend at this event',
+          "location": 'Meow Town',
+          "date": 'Janauary 28,2022',
+          "time": '12:00',
+          "pestAllowed": true,
+          "organizer": 'Kai daves'
          },
-         {
-          id: 222,
-          category: 'Animal Welfare',
-          description: 'Find your new feline friend at this event',
-          location: 'Meow Town',
-          date: 'Janauary 28,2022',
-          time: '12:00',
-          pestAllowed: true,
-          organizer: 'Kai daves'
+          {
+          "id": 222,
+          "category": 'Animal Welfare',
+          "description": 'Find your new feline friend at this event',
+          "location": 'Meow Town',
+          "date": 'Janauary 28,2022',
+          "time": '12:00',
+          "pestAllowed": true,
+          "organizer": 'Kai daves'
          },
-         {
-          id: 333,
-          category: 'Animal Welfare',
-          description: 'Find your new feline friend at this event',
-          location: 'Meow Town',
-          date: 'Janauary 28,2022',
-          time: '12:00',
-          pestAllowed: true,
-          organizer: 'Kai daves'
-         }
-         , {
-          id: 444,
-          category: 'Animal Welfare',
-          description: 'Find your new feline friend at this event',
-          location: 'Meow Town',
-          date: 'Janauary 28,2022',
-          time: '12:00',
-          pestAllowed: true,
-          organizer: 'Kai daves'
+          {
+          "id": 333,
+          "category": 'Animal Welfare',
+          "description": 'Find your new feline friend at this event',
+          "location": 'Meow Town',
+          "date": 'Janauary 28,2022',
+          "time": '12:00',
+          "pestAllowed": true,
+          "organizer": 'Kai daves'
          },
-         {
-          id: 555,
-          category: 'Animal Welfare',
-          description: 'Find your new feline friend at this event',
-          location: 'Meow Town',
-          date: 'Janauary 28,2022',
-          time: '12:00',
-          pestAllowed: true,
-          organizer: 'Kai daves'
-         }
+          {
+          "id": 444,
+          "category": 'Animal Welfare',
+          "description": 'Find your new feline friend at this event',
+          "location": 'Meow Town',
+          "date": 'Janauary 28,2022',
+          "time": '12:00',
+          "pestAllowed": true,
+          "organizer": 'Kai daves'
+         },
+        
       ]
 }
