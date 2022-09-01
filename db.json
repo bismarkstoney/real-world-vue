@@ -1,4 +1,4 @@
- events:[
+{"events":[
          {
           id: 1111,
           category: 'Animal Welfare',
@@ -50,3 +50,4 @@
           organizer: 'Kai daves'
          }
       ]
+}
